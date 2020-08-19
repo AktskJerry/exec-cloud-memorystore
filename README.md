@@ -1,6 +1,6 @@
 # exec-cloud-redis
 
-This tool helps you to exec google cloud memorystore(only redis now) in cloud functions.
+This tool helps you to execute google cloud memorystore(only redis now) in cloud functions.
 Usually we just want build minimum services for testing with redis, in the mean time memorystore  does not allow connnect from local, it's over kill to use GAE,CE,K8s also cost a little bit high in development phase. I suggest you connect with cloud functions and query redis with this tool, it makes you operate as local machine, additionally, it's almost free, serverless fee can be ignored!
 
 Redis features are based on [redigo](https://github.com/gomodule/redigo) project
