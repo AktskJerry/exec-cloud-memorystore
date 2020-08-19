@@ -10,6 +10,7 @@ Redis features are based on [redigo](https://github.com/gomodule/redigo) project
 # How to use
 
   - Follow this [document](https://cloud.google.com/functions/docs/first-go) to create cloud functions with golang
+  - Put `ExecCloudRedis` in Entry point 
   - Follow this [document](https://cloud.google.com/memorystore/docs/redis/creating-managing-instances?hl=zh-tw) to create redis instance
   - Follow this [document](https://cloud.google.com/memorystore/docs/redis/connect-redis-instance-functions) to connect to redis from cloud functions
   - Paste the code into source in cloud functions and deploy
