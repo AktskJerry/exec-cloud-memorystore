@@ -9,9 +9,9 @@ Redis features are based on [redigo](https://github.com/gomodule/redigo) project
 
 # How to use
 
-  - Follow [this](https://cloud.google.com/functions/docs/first-go) document to create cloud functions with golang
-  - Follow [this](https://cloud.google.com/memorystore/docs/redis/creating-managing-instances?hl=zh-tw) document to create redis instance
-  - Follow [this](https://cloud.google.com/memorystore/docs/redis/connect-redis-instance-functions) document to connect to redis from cloud functions
+  - Follow this [document](https://cloud.google.com/functions/docs/first-go) to create cloud functions with golang
+  - Follow this [document](https://cloud.google.com/memorystore/docs/redis/creating-managing-instances?hl=zh-tw) to create redis instance
+  - Follow this [document](https://cloud.google.com/memorystore/docs/redis/connect-redis-instance-functions) to connect to redis from cloud functions
   - Paste the code into source in cloud functions and deploy
   - Switch to testing tab, write your query. That's all
 
