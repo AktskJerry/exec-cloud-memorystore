@@ -5,7 +5,7 @@ Usually we just want build minimum services for testing with redis, in the mean 
 
 Redis features are based on [redigo](https://github.com/gomodule/redigo) project
 
-![image](picture or gif url)
+![image](https://github.com/AktskJerry/exec-cloud-memorystore/blob/master/example.png)
 
 # How to use
 
